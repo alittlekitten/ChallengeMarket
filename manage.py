@@ -3,7 +3,6 @@
 import os
 import sys
 
-# 아무거나 주석 넣어봄
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ChallengeMarket.settings')
